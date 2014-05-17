@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
   def index
-    @homePageText = "Welcome to a lost Eden! fuck you!"
+    @homePageText = "Welcome to a lost Eden!"
   end
 end
