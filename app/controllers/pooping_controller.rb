@@ -1,5 +1,5 @@
 class PoopingController < ApplicationController
   def fuckyou
-    @message = "what ever you want baby?!!!!! fuck!"
+    @message = "wantsumfuck"
   end
 end
