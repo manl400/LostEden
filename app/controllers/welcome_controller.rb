@@ -8,9 +8,15 @@ class WelcomeController < ApplicationController
       @i0 = "variable is Saturday!"
     else
       @i0 = "not a good day i guess."
-      
-     
     end
-    
+
+  a=1
+  b=2
+  c=3
+  d=0
+  
+ @aab = d
+ 
+
   end
 end
