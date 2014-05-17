@@ -4,6 +4,8 @@ Rails.application.routes.draw do
   get 'pooping/fuckyou'
   
   root 'welcome#index'
+  
+  get 'losteden.jpg'
 
 
   # The priority is based upon order of creation: first created -> highest priority.
